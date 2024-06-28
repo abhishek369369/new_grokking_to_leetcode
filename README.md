@@ -259,11 +259,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Matrices
 
-- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [X] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 
-- [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
+- [X] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 
-- [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [X] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 
 - [ ] [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
 
