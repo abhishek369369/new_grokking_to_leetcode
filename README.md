@@ -434,11 +434,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 ## Challenge Yourself
 
 - [ ] [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
-- [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+- [X] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [X] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
