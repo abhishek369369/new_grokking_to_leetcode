@@ -265,7 +265,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 
-- [ ] [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
+- [X] [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
 
 ## Stacks
 
