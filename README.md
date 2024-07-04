@@ -461,7 +461,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 - [ ] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [ ] [Minimum Flips to Make the Binary String Alternate](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/)
-- [ ] [Lemonade Change](https://leetcode.com/problems/lemonade-change/)
+- [X] [Lemonade Change](https://leetcode.com/problems/lemonade-change/)
 - [ ] [House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [ ] [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
@@ -469,7 +469,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)
 - [ ] [Design File System](https://leetcode.com/problems/design-file-system/)
 - [ ] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
-- [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+- [X] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 - [ ] [Add Binary](https://leetcode.com/problems/add-binary/)
 - [ ] [Multiply Strings](https://leetcode.com/problems/multiply-strings)
 
